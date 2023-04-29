@@ -6,9 +6,9 @@
 //▮THIS SOFTWARE IS UNDER ZIMBOT COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮EMAIL: reinhardtuna@gmail.com / support@zimbot.me
-//▮WHATSAPP US : +263 77 655 8634
-//▮YOUTUBE CHANNELL: https://youtube.com/@zim-bot
+//▮EMAIL: am3dev1234@gmail.com / support@zimbot.me
+//▮WHATSAPP US : +212 84 34 37 16
+//▮YOUTUBE CHANNELL: https://youtube.com/@Am3_Dev
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
